@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "exercise_01_display/display_exercise", "iterator_trait/iterator_trait_exercises",
+    "linked_lists/singly_linked_list/singly_linked_list"
+]
